@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Jul  6 13:27:01 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : MANDELBROT_HW
+Top-level Entity Name : MANDELBROT_HW
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 546
+Total pins : 73
+Total virtual pins : 0
+Total block memory bits : 2,621,440
+Total DSP Blocks : 3
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2
+Total DLLs : 0

@@ -1,0 +1,13 @@
+	component mandebrot_plot is
+		port (
+			clk_clk                                       : in  std_logic                     := 'X'; -- clk
+			hdmi_driver_conduit_hdmi_clk_clk              : in  std_logic                     := 'X'; -- clk
+			hdmi_driver_conduit_out_hdmi_out              : out std_logic_vector(26 downto 0);        -- hdmi_out
+			hdmi_driver_conduit_rst_rst                   : in  std_logic                     := 'X'; -- rst
+			mand_total_single_sys_conduit_signal_start_sw : in  std_logic                     := 'X'; -- start_sw
+			mand_total_single_sys_conduit_signal_busy     : out std_logic;                            -- busy
+			mand_total_single_sys_conduit_signal_done     : out std_logic;                            -- done
+			reset_reset_n                                 : in  std_logic                     := 'X'  -- reset_n
+		);
+	end component mandebrot_plot;
+

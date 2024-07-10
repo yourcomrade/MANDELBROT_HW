@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at mandelbrot_single_sys.v(5): object "start" differs only in case from object "START" in the same scope File: D:/software/verilog/MANDELBROT_HW/mandebrot_plot/synthesis/submodules/mandelbrot_single_sys.v Line: 5
+Warning (10268): Verilog HDL information at hdmi_display_sys.v(123): always construct contains both blocking and non-blocking assignments File: D:/software/verilog/MANDELBROT_HW/mandebrot_plot/synthesis/submodules/hdmi_display_sys.v Line: 123
