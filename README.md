@@ -1,0 +1,1 @@
+This is the Mandelbrot rendering system design for the DE10-Nano broad. It is a single core Mandelbrot system using Fix-point number. The fix-point number is 27 bits fix point with 1 sign bit, 3 integer bits, and 23 fractional bits. 
